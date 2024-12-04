@@ -46,13 +46,13 @@
 
 ## 💻 **Featured Projects**
 
-### [Darchei Miriam Organization Website](https://github.com/DarcheiMiriam)
+### [Darchei Miriam Organization Website](https://github.com/estiww/DarcheiMiriam)
 - **Full-stack development**: Developed the **server-side logic** using **Node.js** and the **client-side interface** with **React**.
 - **Database optimization**: Integrated a highly efficient **MySQL database** to enhance data retrieval and management.
 - **Security-focused design**: Implemented **XSS protection** and adhered to **best practices** for security.
 - **Impact**: Streamlined internal processes and enhanced operational efficiency, supporting thousands of users.
 
-### [Project Management System](https://github.com/ProjectManage)
+### [Project Management System](https://github.com/estiww/ProjectManage)
 - **Comprehensive system**: Built a robust **project management system** using **C#** and **.NET**, featuring a **WPF GUI** for a smooth user experience.
 - **Performance optimization**: Applied **Multitier Architecture**, **LINQ**, and **multi-threading** to boost performance and scalability.
 - **Team collaboration**: Designed to facilitate **effective task management** and **cross-functional teamwork**.
